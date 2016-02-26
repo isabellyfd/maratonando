@@ -1,0 +1,11 @@
+[m1,m2,m3.........mN]
+K
+
+
+  
+só mN: se K é divisível por mN = K/mN senão 0
+
+m1: k/m1 
+m2:  0       
+ 
+
